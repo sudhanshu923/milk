@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/milk/static/css/main.ea669e4c.css",
+    "main.js": "/milk/static/js/main.df656912.js",
+    "static/js/239.47293c53.chunk.js": "/milk/static/js/239.47293c53.chunk.js",
+    "static/js/213.0997e7e7.chunk.js": "/milk/static/js/213.0997e7e7.chunk.js",
+    "static/js/732.43d33f8e.chunk.js": "/milk/static/js/732.43d33f8e.chunk.js",
+    "static/js/453.cbdb4d7e.chunk.js": "/milk/static/js/453.cbdb4d7e.chunk.js",
+    "index.html": "/milk/index.html",
+    "main.ea669e4c.css.map": "/milk/static/css/main.ea669e4c.css.map",
+    "main.df656912.js.map": "/milk/static/js/main.df656912.js.map",
+    "239.47293c53.chunk.js.map": "/milk/static/js/239.47293c53.chunk.js.map",
+    "213.0997e7e7.chunk.js.map": "/milk/static/js/213.0997e7e7.chunk.js.map",
+    "732.43d33f8e.chunk.js.map": "/milk/static/js/732.43d33f8e.chunk.js.map",
+    "453.cbdb4d7e.chunk.js.map": "/milk/static/js/453.cbdb4d7e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea669e4c.css",
+    "static/js/main.df656912.js"
+  ]
+}
